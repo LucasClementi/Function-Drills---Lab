@@ -27,10 +27,14 @@ helloWorld('Hello, World!')
 */
 
 //CODE HERE
- 
+
+const jsNinja = () => {
+return 'I am a JavaScript ninja!';
+}
+console.log(jsNinja());
 
 
-////////////////// PROBLEM 3 ////////////////////
+  ////////////////// PROBLEM 3 ////////////////////
 /*
   Create a function called printName which takes in a person's name and console logs it.
   Ex. If 'Cameron' were passed in as the argument, Cameron would be console logged.
